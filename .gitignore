@@ -1,2 +1,4 @@
 *.txt
 unfolder/
+cifar-100-python/
+CIFAR-100-C/
